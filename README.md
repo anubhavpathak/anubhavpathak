@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anubhav 
+- 👋 Hi, I’m Anubhav Pathak
 - 👀 I’m interested in ...Data Analytics
 - 🌱  I'm graduated from Madan Mohan Malaviya University of Technology Gorakhpur UP.
 - 💞️ I’m currently seeking opportunities in Data Analysis and Machine Learning.
